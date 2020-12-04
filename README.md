@@ -18,6 +18,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 ## Fonts
 - https://fontpair.co/
 - https://fonts.google.com/
+- https://type-scale.com/
 
 [⬆ back to top](#table-of-contents)
 
