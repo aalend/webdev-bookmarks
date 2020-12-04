@@ -13,6 +13,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 
 ## Table of Contents
 - [Fonts](#fonts)
+- [Photo](#photo)
 - [Writing](#writing)
 
 ## Fonts
