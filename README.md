@@ -15,11 +15,19 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - [Fonts](#fonts)
 - [Photo](#photo)
 - [Writing](#writing)
+- Learning Resources(#learning resources)
 
 ## Fonts
 - https://fontpair.co/
 - https://fonts.google.com/
 - https://type-scale.com/
+
+[⬆ back to top](#table-of-contents)
+
+## Photo
+- https://www.remove.bg/
+- https://unsplash.com/
+- https://www.pexels.com/
 
 [⬆ back to top](#table-of-contents)
 
@@ -29,9 +37,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 
 [⬆ back to top](#table-of-contents)
 
-## Photo
-- https://www.remove.bg/
-- https://unsplash.com/
-- https://www.pexels.com/
+## Learning Resources
+- https://www.tutorialrepublic.com/
 
 [⬆ back to top](#table-of-contents)
