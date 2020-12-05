@@ -15,7 +15,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - [Fonts](#fonts)
 - [Photo](#photo)
 - [Writing](#writing)
-- Learning Resources(#learningresources)
+- [Learning Resources](#learning resources)
 
 ## Fonts
 - https://fontpair.co/
@@ -39,5 +39,6 @@ Created by [aalend](https://twitter.com/aalendemirov).
 
 ## Learning Resources
 - https://www.tutorialrepublic.com/
+- https://www.udemy.com/
 
 [⬆ back to top](#table-of-contents)
