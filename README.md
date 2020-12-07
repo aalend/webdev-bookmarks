@@ -14,6 +14,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 ## Table of Contents
 - [Fonts](#fonts)
 - [Photo](#photo)
+- [Icons](#icons)
 - [Writing](#writing)
 - [Learning](#learning)
 
@@ -28,6 +29,12 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://www.remove.bg/
 - https://unsplash.com/
 - https://www.pexels.com/
+
+[⬆ back to top](#table-of-contents)
+
+## Icons
+- https://www.flaticon.com/
+- https://fontawesome.com/
 
 [⬆ back to top](#table-of-contents)
 
