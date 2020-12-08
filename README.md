@@ -13,8 +13,9 @@ Created by [aalend](https://twitter.com/aalendemirov).
 
 ## Table of Contents
 - [Fonts](#fonts)
-- [Photo](#photo)
 - [Icons](#icons)
+- [Colors](#colors)
+- [Photo](#photo)
 - [Writing](#writing)
 - [Learning](#learning)
 
@@ -25,16 +26,22 @@ Created by [aalend](https://twitter.com/aalendemirov).
 
 [⬆ back to top](#table-of-contents)
 
+## Icons
+- https://www.flaticon.com/
+- https://fontawesome.com/
+
+[⬆ back to top](#table-of-contents)
+
+## Colors
+- http://colormind.io/
+- https://colorsinspo.com/
+
+[⬆ back to top](#table-of-contents)
+
 ## Photo
 - https://www.remove.bg/
 - https://unsplash.com/
 - https://www.pexels.com/
-
-[⬆ back to top](#table-of-contents)
-
-## Icons
-- https://www.flaticon.com/
-- https://fontawesome.com/
 
 [⬆ back to top](#table-of-contents)
 
