@@ -23,12 +23,14 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://fontpair.co/
 - https://fonts.google.com/
 - https://type-scale.com/
+- https://www.myfonts.com/
 
 [⬆ back to top](#table-of-contents)
 
 ## Icons
 - https://www.flaticon.com/
 - https://fontawesome.com/
+- https://material.io/resources/icons/?style=baseline
 
 [⬆ back to top](#table-of-contents)
 
