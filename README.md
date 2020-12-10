@@ -35,6 +35,9 @@ Created by [aalend](https://twitter.com/aalendemirov).
 ## Colors
 - http://colormind.io/
 - https://colorsinspo.com/
+- https://mycolor.space/
+- https://colors.muz.li/
+- https://color.adobe.com/create/color-wheel
 
 [⬆ back to top](#table-of-contents)
 
