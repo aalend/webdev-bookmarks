@@ -28,7 +28,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 ## Icons
 - https://www.flaticon.com/
 - https://fontawesome.com/
-- https://material.io/resources/icons/?style=baseline
+- https://heroicons.com/
 - https://feathericons.com/?query=cart
 
 [⬆ back to top](#table-of-contents)
