@@ -29,7 +29,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://www.flaticon.com/
 - https://fontawesome.com/
 - https://material.io/resources/icons/?style=baseline
-- https://thenounproject.com
+- https://feathericons.com/?query=cart
 
 [⬆ back to top](#table-of-contents)
 
