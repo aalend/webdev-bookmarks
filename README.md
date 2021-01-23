@@ -22,6 +22,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://fonts.google.com/
 - https://type-scale.com/
 - https://www.myfonts.com/
+- https://www.fontsquirrel.com/
 
 [⬆ back to top](#table-of-contents)
 
