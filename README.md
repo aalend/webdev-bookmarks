@@ -31,6 +31,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://fontawesome.com/
 - https://heroicons.com/
 - https://feathericons.com/?query=cart
+- https://tablericons.com/?ref=producthunt
 
 [⬆ back to top](#table-of-contents)
 
