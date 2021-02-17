@@ -41,6 +41,7 @@ Created by [aalend](https://twitter.com/aalendemirov).
 - https://mycolor.space/
 - https://colors.muz.li/
 - https://color.adobe.com/create/color-wheel
+- https://www.tailwindshades.com/
 
 [⬆ back to top](#table-of-contents)
 
